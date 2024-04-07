@@ -1,4 +1,4 @@
-
+![logo](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif)
 <h1 align="center">Hi 👋, I'm Satwik Hegde</h1>
 <h3 align="center">A passionate Computer Science student.</h3>
 <img align="center" width="250" height="250"src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
