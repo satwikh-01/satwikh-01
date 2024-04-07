@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satwik Hegde</h1>
 <h3 align="center">A passionate Computer Science student.</h3>
-<h3 <img align="justified" width="300" height="300"src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="satwikh-01" /></h3>
+<img align="left" width="300" height="300"src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="satwikh-01" />
 - 🌱 I’m currently learning Java Web Development.
 
 - 📫 How to reach me hegdesatwik2002@gmail.com
