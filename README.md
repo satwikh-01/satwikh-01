@@ -1,6 +1,6 @@
 ![logo](https://github.com/satwikh-01/satwikh-01/blob/main/github-header-image.png)
 
-- 🌱 I’m currently learning **springboot**
+- 🌱 I’m currently learning **Fine-tuning LLMs**
 
 - 📫 How to reach me **hegdesatwik2002@gmail.com**
 
